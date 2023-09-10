@@ -12,7 +12,7 @@ Mazhive Productions 2023
 
 Usage: setbackground [arguments] [--seconds <seconds>] [directory1] [directory2] etc .. 
 
-Arguments:
+Arguments:\
 -h, --help      Show this help message
 --xfce          Setup for the XFCE4 Desktop
 --mate          Setup for the Mate Desktop
