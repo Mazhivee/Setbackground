@@ -1,3 +1,5 @@
+compile with g++ -o setbg setbg.cpp
+
 Automatically set a random image as the desktop wallpaper,
 from the user's input
 Re-written from script and includes extra desktop environments.
@@ -5,8 +7,11 @@ Works for KDE4, Xfce, LXDE, Mate, e17, and Cinnamon desktops.
 Idea from a script by Just17. Written by Paul Arnote for PCLinuxOS.
 Originally published in The PCLinuxOS Magazine (http://pclosmag.com), Jan. 2014 issue.
 Now includes additional options for setting the interval and specifying the folder.
+
 Mazhive Productions 2023
+
 Usage: setbackground [arguments] [--seconds <seconds>] [directory1] [directory2] etc .. 
+
 Arguments:
   -h, --help      Show this help message
   --xfce          Setup for the XFCE4 Desktop
