@@ -1,4 +1,4 @@
-compile with g++ -o setbackground setbg.cpp
+compile with g++ -o setbg setbg.cpp
 
 Automatically set a random image as the desktop wallpaper,
 from the user's input
