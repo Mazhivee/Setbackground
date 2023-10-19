@@ -13,7 +13,7 @@ Now includes additional options for setting the interval and specifying the fold
 
 Mazhive Productions 2023
 
-Usage: setbackground [arguments] [--seconds <seconds>] [directory1] [directory2] etc .. 
+Usage: setbg [arguments] [--seconds <seconds>] [directory1] [directory2] etc .. 
 
 Arguments:\
 -h, --help      Show this help message\
