@@ -3,7 +3,7 @@ and the source code "setbg.cpp"
 
 compile with g++ -o setbg setbg.cpp
 
-Automatically set a random image as the desktop wallpaper,
+It automatically sets a random image as the desktop wallpaper,
 from the user's input
 Re-written from script and includes extra desktop environments.
 Works for KDE4, Xfce, LXDE, Mate, e17, and Cinnamon desktops.
