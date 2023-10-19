@@ -1,3 +1,6 @@
+Included in the github is the binary "setbg"
+and the source code "setbg.cpp"
+
 compile with g++ -o setbg setbg.cpp
 
 Automatically set a random image as the desktop wallpaper,
