@@ -10,6 +10,7 @@ Works for KDE4, Xfce, LXDE, Mate, e17, and Cinnamon desktops.
 Idea from a script by Just17. Written by Paul Arnote for PCLinuxOS.
 Originally published in The PCLinuxOS Magazine (http://pclosmag.com), Jan. 2014 issue.
 Now includes additional options for setting the interval and specifying the folder.
+It reads all folders recursively!!
 
 Mazhive Productions 2023
 
